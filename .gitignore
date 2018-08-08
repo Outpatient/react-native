@@ -44,7 +44,7 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
+##### checked in so we can pull node_module directly from our branch /android/
 
 # Node
 node_modules
